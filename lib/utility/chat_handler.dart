@@ -10,73 +10,73 @@ class ChatData {
         message: 'ok i will sent you latter',
         time: '6:23 pm',
         icon: Icons.done_all,
-        image: 'assets/images/Aysha.png');
+        image: 'assets/images/Dr_Aya.png');
     var D2 = Chat(
         name: 'Dr Taha',
         message: 'Good luck',
         time: '5:01 pm',
         icon: Icons.done,
-        image: 'assets/images/elon.png');
+        image: 'assets/images/Tamer.png');
     var D3 = Chat(
         name: 'Nesma',
         message: 'Today i will complete',
         time: '4:49 pm',
         icon: Icons.done_all,
-        image: 'assets/images/mehreen.png');
+        image: 'assets/images/Mai.png');
     var D4 = Chat(
         name: 'Shahd',
         message: '1:35',
         time: '4:01 pm',
         icon: Icons.mic,
-        image: 'assets/images/zareen.png');
+        image: 'assets/images/Nesma.png');
     var D5 = Chat(
         name: 'Shimaa',
         message: '2:04',
         time: '2:00 pm',
         icon: Icons.mic,
-        image: 'assets/images/zoia.png');
+        image: 'assets/images/Shimaa.png');
     var D6 = Chat(
         name: 'Khaled',
         message: 'Call me latter',
         time: '11:23 am',
         icon: Icons.done_all,
-        image: 'assets/images/kamal.png');
+        image: 'assets/images/Khaled.png');
     var D7 = Chat(
         name: 'Gamal',
         message: '0:35',
         time: 'yesterday',
         icon: Icons.mic,
-        image: 'assets/images/gates.png');
+        image: 'assets/images/Gamal.png');
     var D8 = Chat(
         name: 'Mona',
         message: 'Ok by',
         time: 'yesterday',
         icon: Icons.done_all,
-        image: 'assets/images/kubra.png');
+        image: 'assets/images/Mona.png');
     var D9 = Chat(
         name: 'Mai',
         message: 'Does,t matter!',
         time: 'yesterday',
         icon: Icons.done_all,
-        image: 'assets/images/Anil.png');
+        image: 'assets/images/Shahd.png');
     var D10 = Chat(
         name: 'ahmed',
         message: 'Call me ',
         time: 'yesterday',
         icon: Icons.done_all,
-        image: 'assets/images/elon.png');
+        image: 'assets/images/Tamer.png');
     var D11 = Chat(
         name: 'Mostafa',
         message: '0:35',
         time: 'yesterday',
         icon: Icons.mic,
-        image: 'assets/images/nomi.jpg');
+        image: 'assets/images/Mostafa.jpg');
     var D12 = Chat(
         name: 'Kamelia',
         message: '1:08',
         time: 'yesterday',
         icon: Icons.mic,
-        image: 'assets/images/Amelia.png');
+        image: 'assets/images/Kamelia.png');
 
 
     Data.add(D1);

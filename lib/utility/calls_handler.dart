@@ -8,33 +8,33 @@ class CallsData {
     var D1 = Calls(
         name: 'Ahmed Eid',
         time: 'Today 12:08 pm',
-        image: 'assets/images/gates.png',
+        image: 'assets/images/Gamal.png',
         icon: Icons.transit_enterexit,
         call: Icons.call);
 
     var D2 = Calls(
         name: 'Mona',
         time: 'Today 11:06 am',
-        image: 'assets/images/kubra.png',
+        image: 'assets/images/Mona.png',
         icon: Icons.call_missed,
         call: Icons.call);
 
     var D3 = Calls(
         name: 'Dr Taha',
         time: 'Today 1:09 pm',
-        image: 'assets/images/elon.png',
+        image: 'assets/images/Tamer.png',
         icon: Icons.call_missed_outgoing,
         call: Icons.call);
     var D4 = Calls(
         name: 'Dr Aya',
         time: 'Today 3:14 pm',
-        image: 'assets/images/Aysha.png',
+        image: 'assets/images/Dr_Aya.png',
         icon: Icons.call_missed,
         call: Icons.videocam_rounded);
     var D5 = Calls(
         name: 'Gamal',
         time: 'Today 12:08 pm',
-        image: 'assets/images/gates.png',
+        image: 'assets/images/Gamal.png',
         icon: Icons.call_missed,
         call: Icons.call);
 
@@ -42,13 +42,13 @@ class CallsData {
     var D6 = Calls(
         name: 'Shimaa',
         time: 'Yesterday 9:06 pm',
-        image: 'assets/images/zoia.png',
+        image: 'assets/images/Shimaa.png',
         icon: Icons.call_missed,
         call: Icons.videocam_rounded);
     var D7 = Calls(
         name: 'Khaled',
         time: 'Yesterday 10:00 pm',
-        image: 'assets/images/kamal.png',
+        image: 'assets/images/Khaled.png',
         icon: Icons.call_missed,
         call: Icons.call,
     );
